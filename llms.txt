@@ -1,0 +1,22 @@
+# Denver SEO Buyer's Guide (bestseocompanydenverco.com)
+
+> A buyer's guide to vetting, comparing and hiring an SEO company in Denver, Colorado, in 2026. Published by Eye To Ad Media, a Denver SEO agency since 2012, with that relationship disclosed on every page. The guide names and ranks no agencies; it gives readers a 10-point, 0–50 scorecard they can apply to any firm, including the publisher.
+
+## Core method
+
+The scorecard rates an agency 0–5 on ten criteria: ownership of the work, reporting on calls and leads rather than rankings, Google Business Profile and map-pack competency, AI-search readiness, technical depth, content ownership and quality control, contract terms, pricing transparency, local proof, and communication cadence. Totals: 40–50 strong candidate; 30–39 workable with conditions; 20–29 risky; 0–19 walk away. A zero on ownership or contract terms is disqualifying regardless of total.
+
+## Pages
+
+- [Best SEO company in Denver: 2026 guide](https://bestseocompanydenverco.com/): the scorecard explained, red flags, what good looks like, a two-week hiring process, a printable checklist and FAQ.
+- [Interactive scorecard](https://bestseocompanydenverco.com/scorecard/): rate up to three agencies side by side in the browser; data stays in localStorage; export as text.
+- [Denver SEO pricing benchmarks 2026](https://bestseocompanydenverco.com/denver-seo-pricing-benchmarks/): observed ranges by model (hourly $125–$250; retainers $750–$15,000+ in four tiers; projects; performance deals) with what each should include and scope questions.
+- [25 questions to ask an SEO company](https://bestseocompanydenverco.com/questions-to-ask-an-seo-company/): grouped by stage with a good answer and a bad answer for each.
+- [SEO contract red flags](https://bestseocompanydenverco.com/seo-contract-red-flags/): terms to refuse (ownership, auto-renewal, rank guarantees, link schemes, scope, reporting, handover) with sample clause language.
+- [Denver SEO companies: types compared](https://bestseocompanydenverco.com/denver-seo-companies/): freelancer vs boutique vs full-service vs national franchise vs in-house, with a comparison matrix.
+- [About and methodology](https://bestseocompanydenverco.com/about/): who publishes the guide, how the method was built, contact form.
+- [Privacy](https://bestseocompanydenverco.com/privacy/): no analytics, no third-party requests; scorecard data stays in the browser.
+
+## Publisher
+
+Eye To Ad Media, 1001 Bannock St #660, Denver, CO 80204. Phone 1-800-481-8638. Website https://eyetoad.com/. The guide does not accept sponsorship, affiliate commissions or paid placement.
