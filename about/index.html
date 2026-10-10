@@ -143,7 +143,7 @@
 <article class="prose">
 <h2 id="publisher">Who publishes this</h2>
 
-<p>This site is written, edited and paid for by <a href="https://eyetoad.com/" rel="noopener">Eye To Ad Media</a>, a search-marketing agency that has worked from Denver since 2012. The office is at 1001 Bannock Street, Suite 660, Denver, Colorado 80204, a few blocks from the Art Museum in the Golden Triangle. The phone number is 1-800-481-8638 and email reaches the same people at info@eyetoad.com.</p>
+<p>This site is written, edited and paid for by <a href="https://eyetoad.com/" rel="noopener">Eye To Ad Media</a>, a search-marketing agency that has worked from Denver since 2012. The office is at 1001 Bannock Street, Suite 660, Denver, Colorado 80204, a few blocks from the Art Museum in the Golden Triangle. The phone number is 1-800-481-8638 and email reaches the same people at <span class="eml-t" data-u="info" data-d="eyetoad.com">info (at) eyetoad.com</span>.</p>
 
 <p>We are not a neutral party. We sell the service this guide teaches you to buy, and on one page we say so and link to ourselves. We have tried to earn the right to publish a buyer's guide in three ways: by disclosing the relationship at the top of every page rather than in a footer, by building a scoring method that can be checked against evidence rather than our opinion, and by never naming or ranking other Denver firms. If you read this guide and hire someone else, it has worked as intended.</p>
 
@@ -183,7 +183,7 @@
 
 <p>Use this form for corrections, questions about the methodology, or to ask about the scorecard in a specific situation. It goes to the agency's shared inbox and is read by a person. If you would rather talk about hiring Eye To Ad Media, say so and we will treat it as a sales enquiry, which means applying the scorecard to ourselves in the first conversation.</p>
 
-<form class="form" action="https://formsubmit.co/info@eyetoad.com" method="POST" aria-labelledby="contact">
+<form class="form" id="contact-form" method="POST" aria-labelledby="contact" novalidate>
 <input type="hidden" name="_subject" value="Denver SEO Buyer's Guide: contact form">
 <input type="hidden" name="_template" value="table">
 <input type="hidden" name="_captcha" value="false">
@@ -201,7 +201,8 @@
 </select></div>
 <div><label for="f-msg">Message</label><textarea id="f-msg" name="message" required></textarea></div>
 <div><button type="submit" class="btn"><svg class="i" aria-hidden="true" viewBox="0 0 24 24"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="m3 7 9 6 9-6"/></svg> Send message</button></div>
-<p class="small" id="sent">Submitting sends your message through formsubmit.co to info@eyetoad.com. No copy is stored on this site.</p>
+<p class="small form-status" id="form-status" role="status" aria-live="polite" hidden></p>
+<p class="small" id="sent">Submitting sends your message through formsubmit.co to <span class="eml-t" data-u="info" data-d="eyetoad.com">info (at) eyetoad.com</span>. No copy is stored on this site.</p>
 </form>
 
 <p>Prefer the phone? Call 1-800-481-8638 during Mountain Time business hours. Or write to Eye To Ad Media, 1001 Bannock St #660, Denver, CO 80204.</p>
@@ -246,5 +247,6 @@
 </footer>
 <script>document.documentElement.className=document.documentElement.className.replace('no-js','js');(function(){var b=document.querySelector('.nav-toggle'),u=document.querySelector('.nav ul');if(b&&u){b.addEventListener('click',function(){var o=u.classList.toggle('open');b.setAttribute('aria-expanded',o?'true':'false');});}document.querySelectorAll('[data-print]').forEach(function(el){el.addEventListener('click',function(){document.documentElement.setAttribute('data-print',el.getAttribute('data-print'));window.print();});});window.addEventListener('afterprint',function(){document.documentElement.removeAttribute('data-print');});})();</script>
 
+<script src="/js/contact.js" defer></script>
 </body>
 </html>
