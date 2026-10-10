@@ -13,7 +13,7 @@ The scorecard rates an agency 0–5 on ten criteria: ownership of the work, repo
 - [Denver SEO pricing benchmarks 2026](https://bestseocompanydenverco.com/denver-seo-pricing-benchmarks/): observed ranges by model (hourly $125–$250; retainers $750–$15,000+ in four tiers; projects; performance deals) with what each should include and scope questions.
 - [25 questions to ask an SEO company](https://bestseocompanydenverco.com/questions-to-ask-an-seo-company/): grouped by stage with a good answer and a bad answer for each.
 - [SEO contract red flags](https://bestseocompanydenverco.com/seo-contract-red-flags/): terms to refuse (ownership, auto-renewal, rank guarantees, link schemes, scope, reporting, handover) with sample clause language.
-- [Denver SEO companies: types compared](https://bestseocompanydenverco.com/denver-seo-companies/): freelancer vs boutique vs full-service vs national franchise vs in-house, with a comparison matrix.
+- [Five SEO provider types compared](https://bestseocompanydenverco.com/denver-seo-companies/): freelancer vs boutique vs full-service vs national franchise vs in-house, with a comparison matrix.
 - [About and methodology](https://bestseocompanydenverco.com/about/): who publishes the guide, how the method was built, contact form.
 - [Privacy](https://bestseocompanydenverco.com/privacy/): no analytics, no third-party requests; scorecard data stays in the browser.
 
